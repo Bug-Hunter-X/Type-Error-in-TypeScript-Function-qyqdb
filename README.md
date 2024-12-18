@@ -1,0 +1,1 @@
+This bug demonstrates a common type error in TypeScript functions. The function `add` is defined to accept two numbers as parameters and return a number. However, the code calls the function with a string and a number, causing a type error. The solution demonstrates how to use type guards to handle mixed types and conditional type checking.
